@@ -1,23 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vHqB9yU.png" group-title="Canais da Teca",Globo (Fonte 1)
-https://listas.clubeiptv.com/globo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Canais da Teca",SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais da Teca",Record Geral
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o7RIdwB.png" group-title="Canais da Teca",Band SP
-https://evpp.mm.uol.com.br/neolms/band/sp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="Canais da Teca",TV Cultura
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vHqB9yU.png",GLOBO HD
+http://centralsv.top:8080/live/686868/686868/15579.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png",SBT HD
+http://centralsv.top:8080/live/686868/686868/15581.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sz9gTTr.png",RECORD HD
+http://centralsv.top:8080/live/686868/686868/15580.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7RIdwB.png",BAND HD
+http://centralsv.top:8080/live/686868/686868/15582.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJgD38F.png",REDE TV
+http://centralsv.top:8080/live/686868/686868/15584.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png",TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canais da Teca",Record News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png",RECORD NEWS
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0nS0Ld.png" group-title="Canais da Teca",CNN Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0nS0Ld.png",CNN BRASIL
 https://cnnb-live.akamaized.net/hls/live/2034577/cnnb_full/index.m3u8
-
-# --- INÍCIO DA LISTA AUTOMÁTICA (EXTRA) ---
-#EXTINF:-1,Globo SP (Auto)
-http://bit.ly/central-iptv-brasil
-#EXTINF:-1,SBT (Auto)
-http://bit.ly/central-iptv-brasil
-#EXTINF:-1,Band (Auto)
-http://bit.ly/central-iptv-brasil
