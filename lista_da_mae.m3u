@@ -7,11 +7,7 @@ https://evpp.mm.uol.com.br/neolms/band/sp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="ABERTOS",Record TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTICIAS",Record News
-https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="ABERTOS",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0nS0Ld.png" group-title="NOTICIAS",CNN Brasil
-https://cnnb-live.akamaized.net/hls/live/2034577/cnnb_full/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XU6mXWv.png" group-title="NOTICIAS",Jovem Pan News
-https://cdn.jmvstream.com/w/LVW-10444/LVW10444_R9fGfG1XyY/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTICIAS",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
